@@ -1,0 +1,1 @@
+koibase = 'Fabricio Jesus é o atual CEO da KOI'
